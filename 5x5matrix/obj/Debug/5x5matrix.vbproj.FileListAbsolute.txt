@@ -1,0 +1,11 @@
+C:\Users\JC\source\repos\5x5matrix\5x5matrix\bin\Debug\5x5matrix.exe.config
+C:\Users\JC\source\repos\5x5matrix\5x5matrix\bin\Debug\5x5matrix.exe
+C:\Users\JC\source\repos\5x5matrix\5x5matrix\bin\Debug\5x5matrix.pdb
+C:\Users\JC\source\repos\5x5matrix\5x5matrix\bin\Debug\5x5matrix.xml
+C:\Users\JC\source\repos\5x5matrix\5x5matrix\obj\Debug\5x5matrix.vbprojAssemblyReference.cache
+C:\Users\JC\source\repos\5x5matrix\5x5matrix\obj\Debug\_5x5matrix.Form1.resources
+C:\Users\JC\source\repos\5x5matrix\5x5matrix\obj\Debug\_5x5matrix.Resources.resources
+C:\Users\JC\source\repos\5x5matrix\5x5matrix\obj\Debug\5x5matrix.vbproj.GenerateResource.cache
+C:\Users\JC\source\repos\5x5matrix\5x5matrix\obj\Debug\5x5matrix.exe
+C:\Users\JC\source\repos\5x5matrix\5x5matrix\obj\Debug\5x5matrix.xml
+C:\Users\JC\source\repos\5x5matrix\5x5matrix\obj\Debug\5x5matrix.pdb
